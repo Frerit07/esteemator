@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Precio de Venta conociendo el Porcentaje de Margen de Utilidad deseado.</string>
+		<key>longName</key>
+		<string>Cálculo del Precio de Venta conociendo el Margen de Utilidad deseado.</string>
+		<key>formulaImage</key>
+		<string>00</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Cálculo del Precio de Venta conociendo el Porcentaje de Gastos de Operación y el porcentaje de Margen de Utilidad deseado.</string>
+		<key>longName</key>
+		<string>Estimador del Precio de Venta cuando se conoce el Porcentaje de los Gastos de Operación y se desea determinado porcentaje de Margen de Utilidad.</string>
+		<key>formulaImage</key>
+		<string>01</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Punto de Equilibrio en Valor.</string>
+		<key>longName</key>
+		<string>Estimador del Punto de Equilibrio en Dinero (Dinero que es necesario vender para sostener la operación)</string>
+		<key>formulaImage</key>
+		<string>02</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Punto de Equilibrio en Unidades.</string>
+		<key>longName</key>
+		<string>Estimador del Punto de Equilibrio en Unidades (Número de unidades mínimas a vender para sostener la operación).</string>
+		<key>formulaImage</key>
+		<string>03</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Nivel de Ventas con Utilidad sobre las mismas Ventas.</string>
+		<key>longName</key>
+		<string>Estimador del Nivel de ventas mínimas cuando se conoce el nivel de gastos mensuales de una operación, para que la operación retorne un porcentaje de utilidad deseado.</string>
+		<key>formulaImage</key>
+		<string>04</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Nivel de Ventas con Utilidad sobre las mismas Ventas y Pagando Royalties de una Franquicia.</string>
+		<key>longName</key>
+		<string>Estimador del Nivel de ventas mínimas cuando se conoce el nivel de gastos mensuales de una operación, también se deben pagar Royalties de una Franquicia y que la operación retorne un porcentaje de Utilidad Deseado.</string>
+		<key>formulaImage</key>
+		<string>05</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Umbral de Ventas para poder Conceder un Descuento.</string>
+		<key>longName</key>
+		<string>Estimador del Umbral Mínimo de Ventas cuando la Compañía decide conceder un Descuento.</string>
+		<key>formulaImage</key>
+		<string>06</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Umbral de ventas para pagar una Actividad de Trade Marketing</string>
+		<key>longName</key>
+		<string>Estimador del Umbral Mínimo de Ventas cuando la Compañía implementa una Actividad de Trade Marketing.</string>
+		<key>formulaImage</key>
+		<string>07</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Umbral Mínimo de Ventas cuando la Compañía decide emprender un alza en sus precios y la competencia no lo hace.</string>
+		<key>longName</key>
+		<string>Estimador del Umbral Mínimo de Ventas cuando la Compañía decide emprender un alza en sus precios y la competencia no lo hace.</string>
+		<key>formulaImage</key>
+		<string>08</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Presupuesto Anual de Ventas de la Compañía.</string>
+		<key>longName</key>
+		<string>Estimador del Presupuesto Anual de Ventas, conociendo los gastos anuales, el Imporrenta, la Rentabilidad Patrimonial Esperada y los Gastos Financieros Anuales.</string>
+		<key>formulaImage</key>
+		<string>09</string>
+	</dict>
+	<dict>
+		<key>formulaName</key>
+		<string>Estimador del Presupuesto Anual de Ventas de la Compañía.</string>
+		<key>longName</key>
+		<string>Estimador del Presupuesto Anual de Ventas, conociendo los gastos anuales, el Imporrenta y los gastos financieros como porcentajje de la Utilidad Operacional.</string>
+		<key>formulaImage</key>
+		<string>10</string>
+	</dict>
+</array>
+</plist>

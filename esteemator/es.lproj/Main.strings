@@ -1,0 +1,946 @@
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "01E-nW-Wy2"; */
+"01E-nW-Wy2.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "02p-2K-g0F"; */
+"02p-2K-g0F.text" = "Label";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "0TT-qD-Vg5"; */
+"0TT-qD-Vg5.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Costo Mercancia Vendida"; ObjectID = "0V3-yw-lfx"; */
+"0V3-yw-lfx.text" = "Costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0lN-Xy-a8T"; */
+"0lN-Xy-a8T.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1KS-5s-yNf"; */
+"1KS-5s-yNf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Vw-52-2PR"; */
+"1Vw-52-2PR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1pM-5F-Mbz"; */
+"1pM-5F-Mbz.text" = "Label";
+
+/* Class = "UILabel"; text = "Costo de la Unidad"; ObjectID = "21h-on-9l0"; */
+"21h-on-9l0.text" = "Costo de la Unidad";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "2Bi-vn-HjC"; */
+"2Bi-vn-HjC.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "2Oj-dx-bk1"; */
+"2Oj-dx-bk1.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "2QB-Nz-30P"; */
+"2QB-Nz-30P.text" = "%";
+
+/* Class = "UILabel"; text = "Valor de las ventas antes de la Actividad de Trade Marketing"; ObjectID = "2mP-yC-A8Q"; */
+"2mP-yC-A8Q.text" = "Valor de las ventas antes de la Actividad de Trade Marketing";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2yd-L4-r43"; */
+"2yd-L4-r43.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "34K-YN-iwf"; */
+"34K-YN-iwf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "36m-xz-alf"; */
+"36m-xz-alf.text" = "Label";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "3Mi-jG-KlO"; */
+"3Mi-jG-KlO.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3aM-HL-JCD"; */
+"3aM-HL-JCD.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Neto Deseado"; ObjectID = "40R-Xk-D49"; */
+"40R-Xk-D49.text" = "Ingrese por favor el Margen Neto Deseado";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Costo Total del Producto o Servicio (En su Moneda)"; ObjectID = "4AE-YK-NEY"; */
+"4AE-YK-NEY.text" = "Ingrese por favor el Costo Total del Producto o Servicio (En su Moneda)";
+
+/* Class = "UILabel"; text = "Prueba : Despues de otorgar el descuento"; ObjectID = "4Nr-DX-vMN"; */
+"4Nr-DX-vMN.text" = "Prueba : Despues de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio"; ObjectID = "4XB-mD-23l"; */
+"4XB-mD-23l.text" = "Ingrese por favor el Margen Bruto Promedio";
+
+/* Class = "UILabel"; text = "Prueba : Antes de otorgar el descuento"; ObjectID = "55g-bp-p3t"; */
+"55g-bp-p3t.text" = "Prueba : Antes de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Valor de Royalties Franquicia"; ObjectID = "5OV-G8-X9P"; */
+"5OV-G8-X9P.text" = "Ingrese por favor el Valor de Royalties Franquicia";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "5j4-qe-YGf"; */
+"5j4-qe-YGf.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "5oR-kZ-7uW"; */
+"5oR-kZ-7uW.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)"; ObjectID = "5rD-iE-7nh"; */
+"5rD-iE-7nh.text" = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "67B-g9-DVL"; */
+"67B-g9-DVL.text" = "%";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "6HE-cX-mBU"; */
+"6HE-cX-mBU.text" = "%";
+
+/* Class = "UINavigationItem"; title = "Esteemator"; ObjectID = "6JL-AQ-S0Q"; */
+"6JL-AQ-S0Q.title" = "Esteemator";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "6f9-1j-FM6"; */
+"6f9-1j-FM6.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Menos Gastos Operacionales"; ObjectID = "6n5-Ys-Q3X"; */
+"6n5-Ys-Q3X.text" = "Menos Gastos Operacionales";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6qx-if-zfE"; */
+"6qx-if-zfE.text" = "Label";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "7T5-3S-BNA"; */
+"7T5-3S-BNA.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "7cL-de-XLZ"; */
+"7cL-de-XLZ.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "80E-mO-1uP"; */
+"80E-mO-1uP.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Utilidad Operacional"; ObjectID = "8IC-zF-N0d"; */
+"8IC-zF-N0d.text" = "Utilidad Operacional";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8YP-8b-k87"; */
+"8YP-8b-k87.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Dl-Sx-1ev"; */
+"9Dl-Sx-1ev.text" = "Label";
+
+/* Class = "UILabel"; text = "Nuevo valor de las ventas al destinar parte del dinero a la Actividad de Trade Marketing "; ObjectID = "9FY-0M-16h"; */
+"9FY-0M-16h.text" = "Nuevo valor de las ventas al destinar parte del dinero a la Actividad de Trade Marketing ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Yz-2t-Sl9"; */
+"9Yz-2t-Sl9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9ky-xc-y8u"; */
+"9ky-xc-y8u.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)"; ObjectID = BT9-am-xWY; */
+"BT9-am-xWY.text" = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "AFt-Sl-XdY"; */
+"AFt-Sl-XdY.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Agk-Mx-i1y"; */
+"Agk-Mx-i1y.text" = "%";
+
+/* Class = "UILabel"; text = "Margen"; ObjectID = "Ajj-hB-51g"; */
+"Ajj-hB-51g.text" = "Margen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Amj-Dc-Mgf"; */
+"Amj-Dc-Mgf.text" = "Label";
+
+/* Class = "UILabel"; text = "Degustaciones"; ObjectID = "Aza-1j-Hle"; */
+"Aza-1j-Hle.text" = "Degustaciones";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B48-bx-PFj"; */
+"B48-bx-PFj.text" = "Label";
+
+/* Class = "UILabel"; text = "Margen Bruto Promedio en (%)"; ObjectID = "BYb-G7-deA"; */
+"BYb-G7-deA.text" = "Margen Bruto Promedio en (%)";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio"; ObjectID = "BbF-0a-pqf"; */
+"BbF-0a-pqf.text" = "Ingrese por favor el Margen Bruto Promedio";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio"; ObjectID = "QhQ-Ft-U6V"; */
+"QhQ-Ft-U6V.text" = "Ingrese por favor el Margen Bruto Promedio";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BiG-ck-IPF"; */
+"BiG-ck-IPF.text" = "Label";
+
+/* Class = "UILabel"; text = "Utilidad Bruta en Ventas"; ObjectID = "BjR-Qy-L4b"; */
+"BjR-Qy-L4b.text" = "Utilidad Bruta en Ventas";
+
+/* Class = "UILabel"; text = "Ingrese por favor lo Gastos Totales del Punto de Venta (En su Moneda)"; ObjectID = "C0s-qe-io9"; */
+"C0s-qe-io9.text" = "Ingrese por favor lo Gastos Totales del Punto de Venta (En su Moneda)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C1K-Xm-uyo"; */
+"C1K-Xm-uyo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CJ7-72-yfD"; */
+"CJ7-72-yfD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CJy-Sv-8pS"; */
+"CJy-Sv-8pS.text" = "Label";
+
+/* Class = "UILabel"; text = "Prueba : Despues de otorgar el descuento"; ObjectID = "CLi-wB-SkS"; */
+"CLi-wB-SkS.text" = "Prueba : Despues de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Menos Gastos Operacionales"; ObjectID = "CZf-5d-x5s"; */
+"CZf-5d-x5s.text" = "Menos Gastos Operacionales";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "CgJ-lk-ZxD"; */
+"CgJ-lk-ZxD.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "CgS-2Q-jKb"; */
+"CgS-2Q-jKb.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "Cqn-KF-Jcl"; */
+"Cqn-KF-Jcl.text" = "Prueba";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "Ctz-EC-4V7"; */
+"Ctz-EC-4V7.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "CuE-ax-tWq"; */
+"CuE-ax-tWq.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "D1T-Vc-A0K"; */
+"D1T-Vc-A0K.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Actividad de Trade Marketing que requiere de los siguientes items:"; ObjectID = "D6f-gc-dBY"; */
+"D6f-gc-dBY.text" = "Actividad de Trade Marketing que requiere de los siguientes items:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DAd-4z-eJK"; */
+"DAd-4z-eJK.text" = "Label";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "DhI-iD-n4g"; */
+"DhI-iD-n4g.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EBn-9V-KJR"; */
+"EBn-9V-KJR.text" = "Label";
+
+/* Class = "UILabel"; text = "Precio de Venta Calculado"; ObjectID = "EJL-k5-4LY"; */
+"EJL-k5-4LY.text" = "Precio de Venta Calculado";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FRG-tI-39V"; */
+"FRG-tI-39V.text" = "Label";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "FUE-Fq-TvF"; */
+"FUE-Fq-TvF.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Fb7-0B-ha5"; */
+"Fb7-0B-ha5.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "FdX-Us-IId"; */
+"FdX-Us-IId.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Utilidad Neta"; ObjectID = "Fer-sD-EWd"; */
+"Fer-sD-EWd.text" = "Utilidad Neta";
+
+/* Class = "UILabel"; text = "Subtotal:"; ObjectID = "G1T-mQ-NER"; */
+"G1T-mQ-NER.text" = "Subtotal:";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "G1i-6Z-ZDr"; */
+"G1i-6Z-ZDr.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "G6E-Ge-Z4z"; */
+"G6E-Ge-Z4z.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "GSG-2P-1Nl"; */
+"GSG-2P-1Nl.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "GbR-nA-Eok"; */
+"GbR-nA-Eok.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GpH-Og-6ch"; */
+"GpH-Og-6ch.text" = "Label";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "GrF-8y-8IC"; */
+"GrF-8y-8IC.text" = "Prueba";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "Gwr-uJ-Jhe"; */
+"Gwr-uJ-Jhe.text" = "Margen Bruto";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "H1C-A5-hYl"; */
+"H1C-A5-hYl.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H5q-lL-9OO"; */
+"H5q-lL-9OO.text" = "Label";
+
+/* Class = "UILabel"; text = "Gastos Operacionales"; ObjectID = "HGL-gH-YMz"; */
+"HGL-gH-YMz.text" = "Gastos Operacionales";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Haf-TD-Ust"; */
+"Haf-TD-Ust.text" = "Label";
+
+/* Class = "UILabel"; text = "Elija por favor de la Lista Desplegable, el porcentaje de Gastos financieros como proporción de la Utilidad Operacional:"; ObjectID = "HiL-fw-5Pn"; */
+"HiL-fw-5Pn.text" = "Elija por favor de la Lista Desplegable, el porcentaje de Gastos financieros como proporción de la Utilidad Operacional:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hqz-Iy-OVE"; */
+"Hqz-Iy-OVE.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hum-ce-VIv"; */
+"Hum-ce-VIv.text" = "Label";
+
+/* Class = "UILabel"; text = "Utilidad Neta Después de Impuestos"; ObjectID = "HxX-JT-Hcw"; */
+"HxX-JT-Hcw.text" = "Utilidad Neta Después de Impuestos";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "I31-Mh-EtM"; */
+"I31-Mh-EtM.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "I5B-i9-MzL"; */
+"I5B-i9-MzL.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I7e-KH-tC1"; */
+"I7e-KH-tC1.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "I9M-AJ-5ei"; */
+"I9M-AJ-5ei.text" = "%";
+
+/* Class = "UILabel"; text = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)"; ObjectID = "ICR-SF-YyB"; */
+"ICR-SF-YyB.text" = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IsQ-8a-mf3"; */
+"IsQ-8a-mf3.text" = "Label";
+
+/* Class = "UILabel"; text = "Precio de la unidad antes de conceder el descuento (En su Moneda)"; ObjectID = "JUf-kd-Xwi"; */
+"JUf-kd-Xwi.text" = "Precio de la unidad antes de conceder el descuento (En su Moneda)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jzc-TE-gfo"; */
+"Jzc-TE-gfo.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "Jzi-eK-dir"; */
+"Jzi-eK-dir.text" = "%";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "K5i-IE-kCD"; */
+"K5i-IE-kCD.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)"; ObjectID = "KcT-e7-fQt"; */
+"KcT-e7-fQt.text" = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "KmC-jw-uYv"; */
+"KmC-jw-uYv.text" = "%";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Precio de la unidad antes de conceder el descuento (En su Moneda)"; ObjectID = "Kme-bv-KCq"; */
+"Kme-bv-KCq.text" = "Ingrese por favor el Precio de la unidad antes de conceder el descuento (En su Moneda)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kmk-zb-vms"; */
+"Kmk-zb-vms.text" = "Label";
+
+/* Class = "UILabel"; text = "Nuevo Precio de la Unidad (Calculado)"; ObjectID = "L5x-O3-cdg"; */
+"L5x-O3-cdg.text" = "Nuevo Precio de la Unidad (Calculado)";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "LAT-38-Kx1"; */
+"LAT-38-Kx1.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "LHZ-qW-O6a"; */
+"LHZ-qW-O6a.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LJB-Ij-18w"; */
+"LJB-Ij-18w.text" = "Label";
+
+/* Class = "UILabel"; text = "Umbral de ventas calculado y requerido para pagar la Actividad de Marketing"; ObjectID = "LJz-wR-l1V"; */
+"LJz-wR-l1V.text" = "Umbral de ventas calculado y requerido para pagar la Actividad de Marketing";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "LSm-T7-AZA"; */
+"LSm-T7-AZA.text" = ">";
+
+/* Class = "UILabel"; text = "Costo del Mueble"; ObjectID = "M4N-IX-DOW"; */
+"M4N-IX-DOW.text" = "Costo del Mueble";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "MFC-mf-PmU"; */
+"MFC-mf-PmU.text" = "Ventas";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "MIh-Zs-Sc0"; */
+"MIh-Zs-Sc0.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "Mf7-br-2Kb"; */
+"Mf7-br-2Kb.text" = "Prueba";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "MlR-N0-A1L"; */
+"MlR-N0-A1L.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Ingrese por favor la Utilidad deseada sobre Ventas (En %)"; ObjectID = "Mxf-3A-bru"; */
+"Mxf-3A-bru.text" = "Ingrese por favor la Utilidad deseada sobre Ventas (En %)";
+
+/* Class = "UILabel"; text = "Nivel de Ventas Requerido (con base en la Rentabilidad Patrimonial Exigida, los Gastos Financieros y el Impuesto a Pagar)"; ObjectID = "N8c-Nw-mSn"; */
+"N8c-Nw-mSn.text" = "Nivel de Ventas Requerido (con base en la Rentabilidad Patrimonial Exigida, los Gastos Financieros y el Impuesto a Pagar)";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "Nrb-hK-Omx"; */
+"Nrb-hK-Omx.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "OJA-BD-xOH"; */
+"OJA-BD-xOH.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Gastos Operacionales"; ObjectID = "OhR-oE-hO4"; */
+"OhR-oE-hO4.text" = "Gastos Operacionales";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "Ojf-Er-AJz"; */
+"Ojf-Er-AJz.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)"; ObjectID = "OtL-1I-DYp"; */
+"OtL-1I-DYp.text" = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "P4Y-lf-Xvk"; */
+"P4Y-lf-Xvk.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P61-A1-w3K"; */
+"P61-A1-w3K.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "QE0-9f-rvL"; */
+"QE0-9f-rvL.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QI3-Ku-hdk"; */
+"QI3-Ku-hdk.text" = "Label";
+
+/* Class = "UILabel"; text = "Porcentaje del dinero de menor valor de las ventas"; ObjectID = "QQI-lj-im2"; */
+"QQI-lj-im2.text" = "Porcentaje del dinero de menor valor de las ventas";
+
+/* Class = "UILabel"; text = "FormulaName"; ObjectID = "QXS-Rt-l51"; */
+"QXS-Rt-l51.text" = "FormulaName";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "RFc-aC-n13"; */
+"RFc-aC-n13.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Precio unidad antes de conceder el descuento"; ObjectID = "RJN-fz-kyP"; */
+"RJN-fz-kyP.text" = "Precio unidad antes de conceder el descuento";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "RdC-xP-R7s"; */
+"RdC-xP-R7s.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Uniformes"; ObjectID = "SJX-Jt-2bc"; */
+"SJX-Jt-2bc.text" = "Uniformes";
+
+/* Class = "UILabel"; text = "Prueba : Antes de otorgar el descuento"; ObjectID = "SS9-PO-pWt"; */
+"SS9-PO-pWt.text" = "Prueba : Antes de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "SVl-Ev-B1e"; */
+"SVl-Ev-B1e.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SZh-o6-0Ri"; */
+"SZh-o6-0Ri.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SZh-rs-Nui"; */
+"SZh-rs-Nui.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)"; ObjectID = "T3X-vr-Kup"; */
+"T3X-vr-Kup.text" = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4k-6z-HEP"; */
+"T4k-6z-HEP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TDw-xC-m7N"; */
+"TDw-xC-m7N.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TO7-1U-5XT"; */
+"TO7-1U-5XT.text" = "Label";
+
+/* Class = "UILabel"; text = "Menos Gastos Operacionales"; ObjectID = "TPa-lQ-Tds"; */
+"TPa-lQ-Tds.text" = "Menos Gastos Operacionales";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "TRL-dm-3eg"; */
+"TRL-dm-3eg.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "TZq-gp-h31"; */
+"TZq-gp-h31.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio"; ObjectID = "UUk-TL-xmC"; */
+"UUk-TL-xmC.text" = "Ingrese por favor el Margen Bruto Promedio";
+
+/* Class = "UILabel"; text = "menos Costo Mercancía Vendida"; ObjectID = "UnH-DC-GMe"; */
+"UnH-DC-GMe.text" = "menos Costo Mercancía Vendida";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "Usn-pe-9N9"; */
+"Usn-pe-9N9.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V14-yC-wPu"; */
+"V14-yC-wPu.text" = "Label";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "VRi-ae-Z2t"; */
+"VRi-ae-Z2t.text" = "Prueba";
+
+/* Class = "UILabel"; text = "Costo de la unidad"; ObjectID = "Vdl-QZ-0yQ"; */
+"Vdl-QZ-0yQ.text" = "Costo de la unidad";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "Vxd-xA-PAq"; */
+"Vxd-xA-PAq.text" = "Prueba";
+
+/* Class = "UILabel"; text = "menos Costo Mercancia Vendida"; ObjectID = "VzB-Y9-sa2"; */
+"VzB-Y9-sa2.text" = "menos Costo Mercancia Vendida";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "W5H-1I-Sny"; */
+"W5H-1I-Sny.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "Wyv-08-DYB"; */
+"Wyv-08-DYB.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Presupuestado para el año:"; ObjectID = "Wz8-cT-BWx"; */
+"Wz8-cT-BWx.text" = "Ingrese por favor el Margen Bruto Presupuestado para el año:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WzS-tg-EXY"; */
+"WzS-tg-EXY.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Anuales de Operación (Admón y Ventas) (En su Moneda)"; ObjectID = "X5z-rW-y0h"; */
+"X5z-rW-y0h.text" = "Ingrese por favor los Gastos Anuales de Operación (Admón y Ventas) (En su Moneda)";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Deseado"; ObjectID = "XBL-M7-js3"; */
+"XBL-M7-js3.text" = "Ingrese por favor el Margen Deseado";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xl9-As-LnR"; */
+"Xl9-As-LnR.text" = "Label";
+
+/* Class = "UILabel"; text = "Margen Bruto Promedio obtenido en el período"; ObjectID = "YBB-5v-Nah"; */
+"YBB-5v-Nah.text" = "Margen Bruto Promedio obtenido en el período";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "YDI-z5-R3c"; */
+"YDI-z5-R3c.normalTitle" = "Prueba";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "YHr-by-PsJ"; */
+"YHr-by-PsJ.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YIz-ID-rqj"; */
+"YIz-ID-rqj.text" = "Label";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "YNc-Eg-iR7"; */
+"YNc-Eg-iR7.text" = "Prueba";
+
+/* Class = "UILabel"; text = "Ingrese por favor el presupuesto de Gastos Anuales de la empresa (En su Moneda):"; ObjectID = "YgT-VU-A7t"; */
+"YgT-VU-A7t.text" = "Ingrese por favor el presupuesto de Gastos Anuales de la empresa (En su Moneda):";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Operacionales "; ObjectID = "Ykg-w1-Ow5"; */
+"Ykg-w1-Ow5.text" = "Ingrese por favor los Gastos Operacionales ";
+
+/* Class = "UILabel"; text = "Ingrese por favor la Utilidad deseada sobre Ventas"; ObjectID = "YxS-Re-1gD"; */
+"YxS-Re-1gD.text" = "Ingrese por favor la Utilidad deseada sobre Ventas";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "Z07-sg-jmi"; */
+"Z07-sg-jmi.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "ZFO-si-dYb"; */
+"ZFO-si-dYb.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "ZIC-9C-qaf"; */
+"ZIC-9C-qaf.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Patrimonio expuesto en el Negocio (En su Moneda)"; ObjectID = "ZZh-Mj-hmu"; */
+"ZZh-Mj-hmu.text" = "Ingrese por favor el Patrimonio expuesto en el Negocio (En su Moneda)";
+
+/* Class = "UILabel"; text = "Precio de Venta Calculado:"; ObjectID = "Za1-pm-Ccs"; */
+"Za1-pm-Ccs.text" = "Precio de Venta Calculado:";
+
+/* Class = "UILabel"; text = "Punto de Equilibrio Calculado en Unidades:"; ObjectID = "Ze8-fN-nzT"; */
+"Ze8-fN-nzT.text" = "Punto de Equilibrio Calculado en Unidades:";
+
+/* Class = "UILabel"; text = "Punto de Equilibrio Calculado en Unidades:"; ObjectID = "TWe-PZ-B3Z"; */
+"TWe-PZ-B3Z.text" = "Punto de Equilibrio Calculado en Unidades:";
+
+/* Class = "UILabel"; text = "Prueba : Antes de otorgar el descuento"; ObjectID = "ZmT-8V-nLD"; */
+"ZmT-8V-nLD.text" = "Prueba : Antes de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "Zru-Kd-AAH"; */
+"Zru-Kd-AAH.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "ZuK-Zz-iL1"; */
+"ZuK-Zz-iL1.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "a7j-RQ-cYZ"; */
+"a7j-RQ-cYZ.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "aO3-qt-7je"; */
+"aO3-qt-7je.text" = "Ventas";
+
+/* Class = "UIBarButtonItem"; title = "Atras"; ObjectID = "agk-ic-wPg"; */
+"agk-ic-wPg.title" = "Atras";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "b1v-rv-Bwj"; */
+"b1v-rv-Bwj.text" = "%";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "b8O-ci-RDG"; */
+"b8O-ci-RDG.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Rentabilidad Patrimonial Exigida"; ObjectID = "bJz-3T-xn7"; */
+"bJz-3T-xn7.text" = "Rentabilidad Patrimonial Exigida";
+
+/* Class = "UILabel"; text = "Presupuesto de Ventas con Utilidad Neta Después de Gastos Financieros y Después de Impuestos"; ObjectID = "bN0-0a-YXo"; */
+"bN0-0a-YXo.text" = "Presupuesto de Ventas con Utilidad Neta Después de Gastos Financieros y Después de Impuestos";
+
+/* Class = "UILabel"; text = "Prueba : Despues de otorgar el descuento"; ObjectID = "bRz-YO-7dx"; */
+"bRz-YO-7dx.text" = "Prueba : Despues de otorgar el descuento";
+
+/* Class = "UILabel"; text = "Menos Gastos Operacionales"; ObjectID = "bb1-y5-6E8"; */
+"bb1-y5-6E8.text" = "Menos Gastos Operacionales";
+
+/* Class = "UINavigationItem"; title = "Porcentajes"; ObjectID = "c0r-mm-kwQ"; */
+"c0r-mm-kwQ.title" = "Porcentajes";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Porcentaje de Impuesto de Renta"; ObjectID = "c5q-MY-wUO"; */
+"c5q-MY-wUO.text" = "Ingrese por favor el Porcentaje de Impuesto de Renta";
+
+/* Class = "UILabel"; text = "Personal"; ObjectID = "c82-PX-Qbm"; */
+"c82-PX-Qbm.text" = "Personal";
+
+/* Class = "UILabel"; text = "Utilidad Neta Despues de Int. E Impuestos"; ObjectID = "cCU-bq-Pr9"; */
+"cCU-bq-Pr9.text" = "Utilidad Neta Despues de Int. E Impuestos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cRW-Lj-xDD"; */
+"cRW-Lj-xDD.text" = "Label";
+
+/* Class = "UILabel"; text = "Impuestos de Renta del 33%"; ObjectID = "cU6-vQ-ITW"; */
+"cU6-vQ-ITW.text" = "Impuestos de Renta del 33%";
+
+/* Class = "UILabel"; text = "Ventas Presupuestadas:"; ObjectID = "cWd-eV-9c6"; */
+"cWd-eV-9c6.text" = "Ventas Presupuestadas:";
+
+/* Class = "UILabel"; text = "Patrimonio Expuesto"; ObjectID = "chX-Xw-2Ek"; */
+"chX-Xw-2Ek.text" = "Patrimonio Expuesto";
+
+/* Class = "UILabel"; text = "Punto de Equilibrio Calculado:"; ObjectID = "d5E-n8-xSU"; */
+"d5E-n8-xSU.text" = "Punto de Equilibrio Calculado:";
+
+/* Class = "UILabel"; text = "Punto de Equilibrio Calculado:"; ObjectID = "2lr-DV-hnZ"; */
+"2lr-DV-hnZ.text" = "Punto de Equilibrio Calculado:";
+
+/* Class = "UILabel"; text = "Umbral mínimo de ventas calculado, al cual pueden descender las ventas una vez subido el precio"; ObjectID = "dA0-9k-fku"; */
+"dA0-9k-fku.text" = "Umbral mínimo de ventas calculado, al cual pueden descender las ventas una vez subido el precio";
+
+
+/* Class = "UILabel"; text = "Umbral mínimo de ventas calculado, al cual pueden descender las ventas una vez subido el precio"; ObjectID = "dAf-F6-ekZ"; */
+"dAf-F6-ekZ.text" = "Umbral mínimo de ventas calculado, al cual pueden descender las ventas una vez subido el precio";
+
+
+/* Class = "UILabel"; text = "%"; ObjectID = "dDh-kG-E2g"; */
+"dDh-kG-E2g.text" = "%";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "dZu-vK-rQt"; */
+"dZu-vK-rQt.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Porcentaje de descuento solicitado o a conceder"; ObjectID = "ddb-tv-nsR"; */
+"ddb-tv-nsR.text" = "Porcentaje de descuento solicitado o a conceder";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ddl-7Q-kMw"; */
+"ddl-7Q-kMw.text" = "Label";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "dfc-kJ-Sag"; */
+"dfc-kJ-Sag.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "dpy-AF-bSA"; */
+"dpy-AF-bSA.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eNx-Qi-YK7"; */
+"eNx-Qi-YK7.text" = "Label";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "eQA-gS-1c9"; */
+"eQA-gS-1c9.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "eWw-VW-nrh"; */
+"eWw-VW-nrh.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "efw-Pj-oa7"; */
+"efw-Pj-oa7.text" = "Label";
+
+/* Class = "UILabel"; text = "Utilidad Neta Antes de Int. E Impuestos"; ObjectID = "eoy-Ru-25P"; */
+"eoy-Ru-25P.text" = "Utilidad Neta Antes de Int. E Impuestos";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "eqX-4J-iGj"; */
+"eqX-4J-iGj.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "fQq-Xq-Yy9"; */
+"fQq-Xq-Yy9.normalTitle" = "Prueba";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "rNI-V9-ExS"; */
+"rNI-V9-ExS.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "fo1-GL-4Ud"; */
+"fo1-GL-4Ud.text" = "%";
+
+/* Class = "UILabel"; text = "Precio Promedio  de cada Unidad"; ObjectID = "g9s-PK-llZ"; */
+"g9s-PK-llZ.text" = "Precio Promedio  de cada Unidad";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gAN-G9-uzh"; */
+"gAN-G9-uzh.text" = "Label";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "gSR-ga-NwR"; */
+"gSR-ga-NwR.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Costo Mercancia Vendida"; ObjectID = "gc1-98-QeI"; */
+"gc1-98-QeI.text" = "Costo Mercancia Vendida";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "ggv-5K-C6f"; */
+"ggv-5K-C6f.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio obtenido en el período"; ObjectID = "gmH-JC-PAH"; */
+"gmH-JC-PAH.text" = "Ingrese por favor el Margen Bruto Promedio obtenido en el período";
+
+/* Class = "UILabel"; text = "Gastos Financieros"; ObjectID = "gve-K6-HLd"; */
+"gve-K6-HLd.text" = "Gastos Financieros";
+
+/* Class = "UILabel"; text = "Gastos Financieros"; ObjectID = "gzb-Xo-Oqx"; */
+"gzb-Xo-Oqx.text" = "Gastos Financieros";
+
+/* Class = "UILabel"; text = "Nuevo Precio de la Unidad calculado (en su Moneda)"; ObjectID = "hCZ-Q4-SAU"; */
+"hCZ-Q4-SAU.text" = "Nuevo Precio de la Unidad calculado (en su Moneda)";
+
+/* Class = "UILabel"; text = "Nuevo Precio de la Unidad calculado (en su Moneda)"; ObjectID = "wAO-0F-H8b"; */
+"wAO-0F-H8b.text" = "Nuevo Precio de la Unidad calculado (en su Moneda)";
+
+
+/* Class = "UILabel"; text = "%"; ObjectID = "hPL-dE-5xB"; */
+"hPL-dE-5xB.text" = "%";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "hPv-h4-jQT"; */
+"hPv-h4-jQT.text" = "%";
+
+/* Class = "UILabel"; text = "Umbral de ventas requerido para pagar el descuento a conceder (En Unidades)"; ObjectID = "hWH-ya-mIZ"; */
+"hWH-ya-mIZ.text" = "Umbral de ventas requerido para pagar el descuento a conceder (En Unidades)";
+
+/* Class = "UILabel"; text = "Punto de equilibrio en unidades:"; ObjectID = "hcB-mZ-gou"; */
+"hcB-mZ-gou.text" = "Punto de equilibrio en unidades:";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)"; ObjectID = "itr-8W-5Qa"; */
+"itr-8W-5Qa.text" = "Ingrese por favor los Gastos Totales del Punto de Venta (En su Moneda)";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen bruto"; ObjectID = "ivc-mq-Zkj"; */
+"ivc-mq-Zkj.text" = "Ingrese por favor el Margen bruto";
+
+/* Class = "UILabel"; text = "Ingrese por favor el porcentaje de Impuesto de Renta:"; ObjectID = "jPa-jf-pjB"; */
+"jPa-jf-pjB.text" = "Ingrese por favor el porcentaje de Impuesto de Renta:";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "jae-HE-wvo"; */
+"jae-HE-wvo.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "jdf-Qe-t67"; */
+"jdf-Qe-t67.normalTitle" = "Prueba";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "dDr-Ug-5ZO"; */
+"dDr-Ug-5ZO.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Punto de Equilibrio en Unidades"; ObjectID = "jg3-B6-bLY"; */
+"jg3-B6-bLY.text" = "Punto de Equilibrio en Unidades";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jpf-6X-QcV"; */
+"jpf-6X-QcV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "k9I-Zj-YQK"; */
+"k9I-Zj-YQK.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Porcentaje de descuento solicitado o a conceder"; ObjectID = "kbX-74-Zim"; */
+"kbX-74-Zim.text" = "Porcentaje de descuento solicitado o a conceder";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "kgs-hI-Kfp"; */
+"kgs-hI-Kfp.text" = "%";
+
+/* Class = "UILabel"; text = "Otro"; ObjectID = "ksD-jc-7ek"; */
+"ksD-jc-7ek.text" = "Otro";
+
+/* Class = "UILabel"; text = "Seleccione un valor"; ObjectID = "ktY-oy-HVq"; */
+"ktY-oy-HVq.text" = "Seleccione un valor";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kuG-Ib-FjS"; */
+"kuG-Ib-FjS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ljo-9b-bae"; */
+"ljo-9b-bae.text" = "Label";
+
+/* Class = "UILabel"; text = "Ventas Presupuestadas Calculadas:"; ObjectID = "m4m-ta-Whq"; */
+"m4m-ta-Whq.text" = "Ventas Presupuestadas Calculadas:";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "m8E-Wk-vSa"; */
+"m8E-Wk-vSa.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "KLQ-U8-2cR"; */
+"KLQ-U8-2cR.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "mIP-sA-zqY"; */
+"mIP-sA-zqY.text" = "%";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mWe-Kk-e3x"; */
+"mWe-Kk-e3x.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "mWk-D2-q00"; */
+"mWk-D2-q00.text" = "%";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "nFw-yL-jMV"; */
+"nFw-yL-jMV.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "nLO-vZ-h6z"; */
+"nLO-vZ-h6z.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Premios a clientes"; ObjectID = "nYi-ZW-l3J"; */
+"nYi-ZW-l3J.text" = "Premios a clientes";
+
+/* Class = "UILabel"; text = "Ventas"; ObjectID = "nvH-zx-ZxD"; */
+"nvH-zx-ZxD.text" = "Ventas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ny2-KM-1pe"; */
+"ny2-KM-1pe.text" = "Label";
+
+/* Class = "UILabel"; text = "Nuevo precio de la unidad"; ObjectID = "oJH-E7-LRe"; */
+"oJH-E7-LRe.text" = "Nuevo precio de la unidad";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oh8-e4-4dD"; */
+"oh8-e4-4dD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "ohJ-pJ-eOx"; */
+"ohJ-pJ-eOx.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Precio Promedio de cada Unidad (En su Moneda)"; ObjectID = "ojd-dx-1t8"; */
+"ojd-dx-1t8.text" = "Ingrese por favor el Precio Promedio de cada Unidad (En su Moneda)";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Precio Promedio de cada Unidad (En su Moneda)"; ObjectID = "PW5-I7-6M0"; */
+"PW5-I7-6M0.text" = "Ingrese por favor el Precio Promedio de cada Unidad (En su Moneda)";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ouI-df-OUq"; */
+"ouI-df-OUq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "pJI-RU-ya8"; */
+"pJI-RU-ya8.normalTitle" = "Calcular";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "xVK-L7-0I6"; */
+"xVK-L7-0I6.normalTitle" = "Calcular";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "OeP-56-MD6"; */
+"OeP-56-MD6.normalTitle" = "Calcular";
+
+
+/* Class = "UILabel"; text = "menos Costo Mercancía Vendida (Costo Total del Producto)"; ObjectID = "pTc-3U-NEh"; */
+"pTc-3U-NEh.text" = "menos Costo Mercancía Vendida (Costo Total del Producto)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pdN-IZ-og0"; */
+"pdN-IZ-og0.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "pdS-iR-xqr"; */
+"pdS-iR-xqr.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "pm6-Vr-S0v"; */
+"pm6-Vr-S0v.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Menos Gastos Operacionales"; ObjectID = "pvq-qi-fPl"; */
+"pvq-qi-fPl.text" = "Menos Gastos Operacionales";
+
+/* Class = "UILabel"; text = "Costo de la unidad"; ObjectID = "q7i-yL-8aM"; */
+"q7i-yL-8aM.text" = "Costo de la unidad";
+
+
+/* Class = "UILabel"; text = "Costo de la unidad"; ObjectID = "6Zn-7W-zuz"; */
+"6Zn-7W-zuz.text" = "Costo de la unidad";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rZt-Qa-qyB"; */
+"rZt-Qa-qyB.text" = "Label";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "riO-V3-Dqq"; */
+"riO-V3-Dqq.text" = "Prueba";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "dDr-Ug-5ZO"; */
+"dDr-Ug-5ZOtext" = "Prueba";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rxh-ig-Mi8"; */
+"rxh-ig-Mi8.text" = "Label";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "s6g-BI-kcf"; */
+"s6g-BI-kcf.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Menos Royalties por Franquicias"; ObjectID = "sJ4-Yc-pyD"; */
+"sJ4-Yc-pyD.text" = "Menos Royalties por Franquicias";
+
+/* Class = "UILabel"; text = "Ingrese por favor el porcentaje de Utilidad Final Deseada - Porcentaje de Utilidad Después de Impuestos"; ObjectID = "sdd-jb-kvN"; */
+"sdd-jb-kvN.text" = "Ingrese por favor el porcentaje de Utilidad Final Deseada - Porcentaje de Utilidad Después de Impuestos";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "sfB-Qc-0v3"; */
+"sfB-Qc-0v3.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t5p-gV-bub"; */
+"t5p-gV-bub.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "tXu-Qu-4PM"; */
+"tXu-Qu-4PM.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Costo Total del Producto o Servicio (En su Moneda)"; ObjectID = "taX-IQ-oV5"; */
+"taX-IQ-oV5.text" = "Ingrese por favor el Costo Total del Producto o Servicio (En su Moneda)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tpT-mW-DQq"; */
+"tpT-mW-DQq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "u2h-nI-hxn"; */
+"u2h-nI-hxn.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uRW-ce-aRh"; */
+"uRW-ce-aRh.text" = "Label";
+
+/* Class = "UILabel"; text = "Auxilios de transporte"; ObjectID = "uev-7r-qyW"; */
+"uev-7r-qyW.text" = "Auxilios de transporte";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "uh8-WQ-lGu"; */
+"uh8-WQ-lGu.text" = "Margen Bruto";
+
+/* Class = "UILabel"; text = "Ingrese por favor la Rentabilidad Patrimonial Exigida a la Gerencia"; ObjectID = "vM7-a6-zVc"; */
+"vM7-a6-zVc.text" = "Ingrese por favor la Rentabilidad Patrimonial Exigida a la Gerencia";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vfn-KT-IH1"; */
+"vfn-KT-IH1.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio obtenido en el período"; ObjectID = "wPJ-5n-wOJ"; */
+"wPJ-5n-wOJ.text" = "Ingrese por favor el Margen Bruto Promedio obtenido en el período";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wdq-Hm-TOJ"; */
+"wdq-Hm-TOJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wf8-FH-2Sp"; */
+"wf8-FH-2Sp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wqN-Rc-FrU"; */
+"wqN-Rc-FrU.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)"; ObjectID = "H3G-5h-qEr"; */
+"H3G-5h-qEr.text" = "Ingrese por favor las Ventas promedio en unidades en el período (En Unidades)";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Margen Bruto Promedio obtenido en el período"; ObjectID = "sY9-eP-uhP"; */
+"sY9-eP-uhP.text" = "Ingrese por favor el Margen Bruto Promedio obtenido en el período";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Porcentaje que desea incrementar el Precio"; ObjectID = "2EP-t0-Yiy"; */
+"2EP-t0-Yiy.text" = "Ingrese por favor el Porcentaje que desea incrementar el Precio";
+
+/* Class = "UILabel"; text = "Ingrese por favor el Precio de la unidad antes de incrementar el precio"; ObjectID = "ITS-tY-Fkv"; */
+"ITS-tY-Fkv.text" = "Ingrese por favor el Precio de la unidad antes de incrementar el precio";
+
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "xOw-ki-VzR"; */
+"xOw-ki-VzR.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Margen Bruto"; ObjectID = "xQA-R8-1sP"; */
+"xQA-R8-1sP.text" = "Margen Bruto";
+
+/* Class = "UIButton"; normalTitle = "Prueba"; ObjectID = "xaM-se-gIz"; */
+"xaM-se-gIz.normalTitle" = "Prueba";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xdT-j7-y8e"; */
+"xdT-j7-y8e.text" = "Label";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "xfU-TR-mBr"; */
+"xfU-TR-mBr.text" = "%";
+
+/* Class = "UILabel"; text = "Menos costo Mercancia Vendida"; ObjectID = "xgj-9d-5Zt"; */
+"xgj-9d-5Zt.text" = "Menos costo Mercancia Vendida";
+
+/* Class = "UILabel"; text = "Impuestos"; ObjectID = "xze-5k-z9g"; */
+"xze-5k-z9g.text" = "Impuestos";
+
+/* Class = "UILabel"; text = "Ingrese por favor los Gastos financieros anuales (En su Moneda)"; ObjectID = "yJT-Fj-Oz2"; */
+"yJT-Fj-Oz2.text" = "Ingrese por favor los Gastos financieros anuales (En su Moneda)";
+
+/* Class = "UILabel"; text = "Prueba"; ObjectID = "yqL-my-Lwm"; */
+"yqL-my-Lwm.text" = "Prueba";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "yv1-l1-T0V"; */
+"yv1-l1-T0V.text" = "%";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yxv-yp-Pmd"; */
+"yxv-yp-Pmd.text" = "Label";
+
+/* Class = "UILabel"; text = "Recargo tiempo extra"; ObjectID = "zCY-P1-uSX"; */
+"zCY-P1-uSX.text" = "Recargo tiempo extra";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "zS4-bI-urh"; */
+"zS4-bI-urh.text" = "Faltan campos por completar";
+
+/* Class = "UILabel"; text = "Faltan campos por completar"; ObjectID = "RTb-62-DXL"; */
+"RTb-62-DXL.text" = "Faltan campos por completar";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "zXS-Fd-xfP"; */
+"zXS-Fd-xfP.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "znF-NU-rVt"; */
+"znF-NU-rVt.text" = "Label";
